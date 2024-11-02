@@ -1,4 +1,4 @@
-# Real-Time Code Editor(i call it Simultaneous Code Editor)
+# Real-Time Code Editor(i call it Let's Code Together)
 
 Welcome to the Real-Time Code Editor project! This application is designed to provide a collaborative coding environment where multiple users can edit code simultaneously. It leverages WebSockets for real-time communication and offers a sleek dark theme for a modern coding experience.
 
@@ -18,4 +18,4 @@ Welcome to the Real-Time Code Editor project! This application is designed to pr
 - **Express**: A web application framework for Node.js, used for creating the backend server.
 - **uuid**: A library for generating unique identifiers.
 
-Go check this website on https://simultaneous-code-editor.vercel.app/
+Go check this website on https://code-together-kappa.vercel.app/
