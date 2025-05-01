@@ -125,7 +125,7 @@ const Home = () => {
           href="https://www.linkedin.com/in/aryanlakhanpal721/"
           className="text-indigo-600 hover:underline"
         >
-          Aryan Lakhanpal
+          ARYAN LAKHANPAL
         </a>
       </footer>
     </div>
